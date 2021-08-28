@@ -30,6 +30,13 @@
 &ensp; [<img align="center" alt="Tech | Python" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/prog/python.png">][python]
 &ensp; [<img align="center" alt="Tech | c#" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/prog/cSharp.png">][cSharp]
 
+#### Design
+
+&ensp; [<img align="center" alt="Design | Figma" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/design/figma.png">][figma]
+&ensp; [<img align="center" alt="Design | AdobeXD" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/design/adobeXD.png">][adobeXD]
+&ensp; [<img align="center" alt="Design | Blender" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/design/blender.png">][blender]
+&ensp; [<img align="center" alt="Design | Unity" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/design/unity.png">][unity]
+
 <!--
 **damienPilat/damienPilat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -66,3 +73,8 @@ Here are some ideas to get you started:
 [java]: https://www.java.com/en/
 [python]: https://www.python.org
 [cSharp]: https://docs.microsoft.com/en-us/dotnet/csharp/
+<!-- Design -->
+[figma]: https://www.figma.com
+[adobeXD]: https://www.adobe.com/uk/products/xd.html
+[blender]: https://www.blender.org
+[unity]: https://unity.com
