@@ -1,5 +1,8 @@
-## Welcome! I'm [Damien][website] 👋
-### I'm an aspiring Web Developer and recent MSc User Experience Engineering Graduate
+
+## <div align="center">Welcome! I'm [Damien][website] 👋</div>
+### <div align="center"> I'm an aspiring Web Developer and recent MSc User Experience Engineering Graduate</div>
+
+
 -
 -
 -
