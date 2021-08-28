@@ -1,9 +1,9 @@
 
-## <div style="display: flex; justify-content: center">Welcome! I'm [Damien][website] 👋</div>
-### <div style="display: flex; justify-content: center"> I'm an aspiring Web Developer and UX Developer</div>
+## <div align="center">Welcome! I'm [Damien][website] 👋</div>
+### <div align="center"> I'm an aspiring Web Developer and UX Developer</div>
 
-[<div style="display: flex; justify-content: center"><img alt="linkedin | Damien Pilat" width="22px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/images/linkedin.png">][linkedIn]
-&emsp; &emsp; [<img alt="damienpilat.github.io" width="22px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/images/website.png"></div>][website]
+[<div align="center"><img alt="linkedin | Damien Pilat" width="22px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/images/linkedin.png">][linkedIn]
+&emsp; [<img alt="damienpilat.github.io" width="22px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/images/website.png"></div>][website]
 
 
 
