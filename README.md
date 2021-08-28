@@ -11,8 +11,9 @@
 ### ⚙️ Technical Skills
 #### Web Technologies
 [<img alt="Tech | JavaScript" width="22px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/javascript.jpeg">][js]
-[][html5]
-[][css3]
+[<img alt="Tech | JavaScript" width="22px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/html5.png">][html5]
+[<img alt="Tech | JavaScript" width="22px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/css3.png">][css3]
+
 
 [][]
 [][]
