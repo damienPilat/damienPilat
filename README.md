@@ -1,11 +1,12 @@
 
 ## <div align="center">Welcome! I'm [Damien][website] 👋</div>
-### <div align="center"> I'm an aspiring Web Developer and recent MSc User Experience Engineering Graduate</div>
+### <div align="center"> I'm an aspiring Web Developer and UX Developer</div>
 
 
--
--
--
+- 🎓After a BSc in Computer Science, I've completed a MSc in User Experience Engineering
+- <img align="center" alt="Tech | JavaScript" width="14px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/javascript.jpeg"> Working on vanilla JS and exploring <img align="center" alt="Tech | React" width="14px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/react.png"> React/React Native for mobile development 
+- 👨‍🏫 Eager to learn more and would love to follow in the footsteps of a mentor
+- When not coding, I'm either 🚴‍♂️ cycling, 🧗‍♂️climbing, or trying something new 🌟!
 
 ### 🔗 Connect with me:
 &emsp; [<img alt="damienpilat.github.io" width="22px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/images/website.png">][website]
