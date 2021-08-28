@@ -10,20 +10,20 @@
 
 ### ⚙️ Technical Skills
 #### Web Technologies
-&ensp; [<img align="middle" alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/javascript.jpeg">][js]
-&ensp; [<img align="middle" alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/html5.png">][html5]
-&ensp; [<img align="middle" alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/css3.png">][css3]
-&ensp; [<img align="middle" alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/jquery.png">][jquery]
-&ensp; [<img align="middle" alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/php.png">][php]
-&ensp; [<img align="middle" alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/mysql.png">][mySql]
+&ensp; [<img align="center" alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/javascript.jpeg">][js]
+&ensp; [<img align="center" alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/html5.png">][html5]
+&ensp; [<img align="center" alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/css3.png">][css3]
+&ensp; [<img align="center" alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/jquery.png">][jquery]
+&ensp; [<img align="center" alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/php.png">][php]
+&ensp; [<img align="center" alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/mysql.png">][mySql]
 &ensp; - &ensp;
-&ensp; [<img align="middle" alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/react.png">][react]
-&ensp; [<img align="middle" alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/django.png">][django]
-&ensp; [<img align="middle" alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/bootstrap.png">][bootstrap]
-&ensp; [<img align="middle" alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/wordpress.png">][wordpress]
+&ensp; [<img align="center" alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/react.png">][react]
+&ensp; [<img align="center" alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/django.png">][django]
+&ensp; [<img align="center" alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/bootstrap.png">][bootstrap]
+&ensp; [<img align="center" alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/wordpress.png">][wordpress]
 &ensp; - &ensp;
-&ensp; [<img align="middle" alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/less.png">][less]
-&ensp; [<img align="middle" alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/sass.png">][sass]
+&ensp; [<img align="center" alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/less.png">][less]
+&ensp; [<img align="center" alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/sass.png">][sass]
 
 
 <!--
