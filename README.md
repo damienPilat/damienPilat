@@ -1,5 +1,14 @@
-### Hi there 👋
+## Welcome! I'm [Damien][website] 👋
+### I'm an aspiring Web Developer and recent MSc User Experience Engineering Graduate
+-
+-
+-
 
+### 🔗 Connect with me:
+[<img alt="damienpilat.github.io" width="22px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/images/website.png">][website]
+[][linkedIn]
+
+### ⚙️ Technical Skills
 <!--
 **damienPilat/damienPilat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +22,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🤝
 -->
+
+[website]: https://damienpilat.github.io
+[linkedIn]: https://www.linkedin.com/in/damien-pilat/
