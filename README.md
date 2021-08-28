@@ -5,8 +5,8 @@
 -
 
 ### 🔗 Connect with me:
-[<img alt="damienpilat.github.io" width="22px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/images/website.png">][website]
-[<img alt="linkedin | Damien Pilat" width="22px" src="https://raw.githubusercontent.com/damienPilat/damieenPilat/main/images/linkedin.png">][linkedIn]
+&emsp; [<img alt="damienpilat.github.io" width="22px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/images/website.png">][website]
+&emsp; [<img alt="linkedin | Damien Pilat" width="22px" src="https://raw.githubusercontent.com/damienPilat/damieenPilat/main/images/linkedin.png">][linkedIn]
 
 ### ⚙️ Technical Skills
 <!--
