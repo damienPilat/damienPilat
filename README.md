@@ -10,13 +10,21 @@
 
 ### ⚙️ Technical Skills
 #### Web Technologies
-[<img alt="Tech | JavaScript" width="22px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/javascript.jpeg">][js]
-[<img alt="Tech | JavaScript" width="22px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/html5.png">][html5]
-[<img alt="Tech | JavaScript" width="22px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/css3.png">][css3]
+&ensp; [<img alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/javascript.jpeg">][js]
+&ensp; [<img alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/html5.png">][html5]
+&ensp; [<img alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/css3.png">][css3]
+&ensp; [<img alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/jquery.png">][jquery]
+&ensp; [<img alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/php.png">][php]
+&ensp; [<img alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/mysql.png">][mySql]
+&ensp; - &ensp;
+&ensp; [<img alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/react.png">][react]
+&ensp; [<img alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/django.png">][django]
+&ensp; [<img alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/bootstrap.png">][bootstrap]
+&ensp; [<img alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/wordpress.png">][wordpress]
+&ensp; - &ensp;
+&ensp; [<img alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/less.png">][less]
+&ensp; [<img alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/sass.png">][sass]
 
-
-[][]
-[][]
 
 <!--
 **damienPilat/damienPilat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,3 +49,12 @@ Here are some ideas to get you started:
 [js]: https://www.javascript.com
 [html5]: https://html.com/html5/
 [css3]: https://www.w3.org/Style/CSS/Overview.en.html
+[jquery]: https://jquery.com 
+[php]: https://www.php.net
+[mySql]: https://www.mysql.com
+[react]: https://reactjs.org
+[django]: https://www.djangoproject.com
+[bootstrap]: https://getbootstrap.com
+[wordpress]: https://wordpress.com
+[less]: https://lesscss.org
+[sass]: https://sass-lang.com
