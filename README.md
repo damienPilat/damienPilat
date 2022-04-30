@@ -18,12 +18,12 @@
 &ensp; [<img align="center" alt="Tech | jQuery" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/jquery.png">][jquery]
 &ensp; [<img align="center" alt="Tech | php" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/php.png">][php]
 &ensp; [<img align="center" alt="Tech | mySQL" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/mysql.png">][mySql]
-&ensp; - &ensp;
+&ensp; | &ensp;
 &ensp; [<img align="center" alt="Tech | React" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/react.png">][react]
 &ensp; [<img align="center" alt="Tech | Django" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/django.png">][django]
 &ensp; [<img align="center" alt="Tech | Bootstrap" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/bootstrap.png">][bootstrap]
 &ensp; [<img align="center" alt="Tech | Wordpress" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/wordpress.png">][wordpress]
-&ensp; - &ensp;
+&ensp; | &ensp;
 &ensp; [<img align="center" alt="Tech | LESS" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/less.png">][less]
 &ensp; [<img align="center" alt="Tech | SASS" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/sass.png">][sass]
 
