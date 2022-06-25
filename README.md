@@ -20,7 +20,7 @@
 &ensp; [<img align="center" alt="Tech | mySQL" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/mysql.png">][mySql]
 &ensp; | &ensp;
 &ensp; [<img align="center" alt="Tech | React" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/react.png">][react]
-&ensp; [<img align="center" alt="Tech | VueJs" width="26px" src="[https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/react.png](https://proximitycr.com/wp-content/uploads/2018/11/1200px-Vue.js_Logo_2.svg_.png)">][vuejs]
+&ensp; [<img align="center" alt="Tech | VueJs" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/vuejs.png"][vuejs]
 &ensp; [<img align="center" alt="Tech | Django" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/django.png">][django]
 &ensp; [<img align="center" alt="Tech | Bootstrap" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/bootstrap.png">][bootstrap]
 &ensp; [<img align="center" alt="Tech | Wordpress" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/wordpress.png">][wordpress]
