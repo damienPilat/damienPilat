@@ -1,6 +1,6 @@
 
 ## <div align="center">Welcome! I'm [Damien][website] 👋</div>
-### <div align="center"> I'm an aspiring Web Developer and UX Developer</div>
+### <div align="center"> I'm a Web Developer and UX Engineer</div>
 
 [<div align="center"><img alt="linkedin | Damien Pilat" width="22px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/images/linkedin.png">][linkedIn]
 &emsp; [<img alt="damienpilat.github.io" width="22px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/images/website.png"></div>][website]
@@ -20,6 +20,7 @@
 &ensp; [<img align="center" alt="Tech | mySQL" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/mysql.png">][mySql]
 &ensp; | &ensp;
 &ensp; [<img align="center" alt="Tech | React" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/react.png">][react]
+&ensp; [<img align="center" alt="Tech | VueJs" width="26px" src="[https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/react.png](https://proximitycr.com/wp-content/uploads/2018/11/1200px-Vue.js_Logo_2.svg_.png)">][vuejs]
 &ensp; [<img align="center" alt="Tech | Django" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/django.png">][django]
 &ensp; [<img align="center" alt="Tech | Bootstrap" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/bootstrap.png">][bootstrap]
 &ensp; [<img align="center" alt="Tech | Wordpress" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/wordpress.png">][wordpress]
@@ -65,6 +66,7 @@ Here are some ideas to get you started:
 [jquery]: https://jquery.com 
 [php]: https://www.php.net
 [mySql]: https://www.mysql.com
+[vuejs]: https://vuejs.org
 [react]: https://reactjs.org
 [django]: https://www.djangoproject.com
 [bootstrap]: https://getbootstrap.com
