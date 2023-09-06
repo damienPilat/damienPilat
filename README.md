@@ -5,8 +5,7 @@
 [<div align="center"><img alt="linkedin | Damien Pilat" width="22px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/images/linkedin.png">][linkedIn]
 &emsp; [<img alt="damienpilat.github.io" width="22px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/images/website.png"></div>][website]
 
-<div align="center">🎓 MSc Info Sec | Msc User Experience Eng | BSc Computer Science 🎓</div>
-
+- 🎓 MSc Info Sec | Msc User Experience Eng | BSc Computer Science
 - <img alt="Tech | JavaScript" width="14px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/javascript.jpeg"> Loving on vanilla JS, very used to working with <img alt="Tech | React" width="14px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/react.png"> React & <img align="center" alt="Tech | VueJs" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/vuejs.png"> VueJS
 - 👨‍🏫 Eager to learn more and would love to follow in the footsteps of a mentor
 - When not coding, I'm either 🚴‍♂️ cycling, 🧗‍♂️climbing, or trying something new 🌟!
