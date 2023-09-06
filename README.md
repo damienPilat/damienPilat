@@ -1,11 +1,11 @@
 
 ## <div align="center">Welcome! I'm [Damien][website] 👋</div>
-### <div align="center"> I'm a Web Developer and UX Engineer</div>
+### <div align="center">Bridging the Gap between Cyber Security and User Experience</div>
 
 [<div align="center"><img alt="linkedin | Damien Pilat" width="22px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/images/linkedin.png">][linkedIn]
 &emsp; [<img alt="damienpilat.github.io" width="22px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/images/website.png"></div>][website]
 
-- 🎓After a BSc in Computer Science, I've completed a MSc in User Experience Engineering
+🎓 MSc Info Sec | Msc User Experience Eng | BSc Computer Science
 - <img alt="Tech | JavaScript" width="14px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/javascript.jpeg"> Working on vanilla JS and exploring <img alt="Tech | React" width="14px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/react.png"> React/React Native for mobile development 
 - 👨‍🏫 Eager to learn more and would love to follow in the footsteps of a mentor
 - When not coding, I'm either 🚴‍♂️ cycling, 🧗‍♂️climbing, or trying something new 🌟!
