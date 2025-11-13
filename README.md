@@ -1,17 +1,19 @@
 
-## <div align="center">Welcome! I'm [Damien][website] 👋</div>
-### <div align="center">Bridging the Gap between Cyber Security and User Experience</div>
+## <div align="center">Hey, it's [Damien][website] 👋</div>
+### <div align="center">Ideally found working in startups working as a UX Engineer</div>
+<div align="center">Running Product Discovery cycles, iteratively designing in Figma, and building production grade Frontends in React/TS</div>
 
 [<div align="center"><img alt="linkedin | Damien Pilat" width="22px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/images/linkedin.png">][linkedIn]
 &emsp; [<img alt="damienpilat.github.io" width="22px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/images/website.png"></div>][website]
 
 - 🎓 MSc Info Sec | Msc User Experience Eng | BSc Computer Science
-- <img alt="Tech | JavaScript" width="14px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/javascript.jpeg"> Loving on vanilla JS, very used to working with <img alt="Tech | React" width="14px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/react.png"> React & <img align="center" alt="Tech | VueJs" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/vuejs.png"> VueJS
-- 👨‍🏫 Eager to learn more and would love to follow in the footsteps of a mentor
+- <img alt="Tech | Typescript" width="14px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/typescript.png"> Loving on vanilla JS, very used to working with <img alt="Tech | React" width="14px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/react.png"> React & <img align="center" alt="Tech | VueJs" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/vuejs.png"> VueJS
+- 👨‍🏫 Eager to learn more and share knowledge at the same time: Mentor <> Mentee
 - When not coding, I'm either 🚴‍♂️ cycling, 🧗‍♂️climbing, or trying something new 🌟!
 
 ### ⚙️ Technical Skills
 #### Web Technologies
+&ensp; [<img align="center" alt="Tech | TypeScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/typescript.jpeg">][js]
 &ensp; [<img align="center" alt="Tech | JavaScript" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/javascript.jpeg">][js]
 &ensp; [<img align="center" alt="Tech | HTML5" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/html5.png">][html5]
 &ensp; [<img align="center" alt="Tech | CSS3" width="26px" src="https://raw.githubusercontent.com/damienPilat/damienPilat/main/icons/webTech/css3.png">][css3]
